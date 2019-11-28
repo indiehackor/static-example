@@ -12,5 +12,7 @@ Hver gang du gjør endringer må du
 * `git commit -m "En tekst som beskriver endringene"`
 * `git push heroku master`
 
+# (Sett opp custom domene)[https://devcenter.heroku.com/articles/custom-domains]
+
 
 
